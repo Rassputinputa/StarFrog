@@ -1,0 +1,150 @@
+body{background: url('./img/cosmonaft.jpg');
+    
+    background-size: 100% auto;
+    
+
+}
+
+.block{
+    background: url('./img/016d009c-bbe7-47f1-8837-b5c9db5a415a.jpg');
+    background-size: 100% auto;
+    position: absolute;
+    width: 1366px;
+    height: 70px;
+    left: 0px;
+    top: 0px;
+    box-shadow: 10px 5px 5px white;
+    
+}
+.p1{
+    
+    font-family: 'Jockey One', sans-serif;
+    position: absolute;
+    width: 519px;
+    height: 29px;
+    left: 400px;
+    top: -32px;
+
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 56px;
+
+    color: #FFFFFF;
+
+    mix-blend-mode: normal;
+
+}
+
+.logo{
+    /* Rectangle 2 */
+
+
+    position: absolute;
+    object-fit: fill;
+    background-size: 100%;
+    background-position: center;
+    width: 70px;
+    height: 70px;
+    left: 24px;
+    top: 0px;
+    background: url('./img/Rectangle\ 2.png');
+    border-radius: 100px;
+}
+
+.mati{
+    position: absolute;
+    width: 742px;
+    height: 316px;
+    left: 24px;
+    top: 123px;
+
+    background: #ADADAD;
+    border-radius: 20px;
+}
+
+.p2{
+    position: absolute;
+    width: 703px;
+    height: 281px;
+    left: 25px;
+    top: 15px;
+    
+    font-family: 'Press Start 2P', cursive;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 24px;
+    z-index: 1;
+    color: #FFFFFF;
+}
+
+.Tlogo{
+    /* STAR FROG.kz */
+
+    position: absolute;
+    width: 227px;
+    height: 29px;
+    left: 108px;
+    top: 6px;
+
+    font-family: 'Jockey One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 56px;
+
+    color: #FFFFFF;
+
+    mix-blend-mode: normal;
+}
+
+.frog{
+    /* Ellipse 1 */
+
+    position: absolute;
+    width: 140px;
+    height: 95px;
+    left: 49px;
+    top: 480px;
+    border-radius: 150px;
+    background: url('./img/imgonline-com-ua-Resize-6OT7DRJkVf6wtkAa.jpg');
+    background-size: cover; /* Фон занимает всю доступную площадь */
+    margin:auto;
+    
+
+}
+
+.cc{
+    /* Rectangle 4 */
+
+    position: absolute;
+    width: 423px;
+    height: 84px;
+    left: 217px;
+    top: 490px;
+
+    background: #AB682A;
+    border-radius: 20px;
+}
+
+.p3{
+    /* “спалив однажды главный контролер... ждать новый предётся несколько световых лет” С. Космическая жаба */
+
+
+    position: absolute;
+    width: 405px;
+    height: 65px;
+    left: 20px;
+    top: -12px;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 24px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
